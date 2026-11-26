@@ -1,0 +1,19 @@
+OSTEM HACKATHON PROJECT - SIMPLE PACKAGE
+
+This ZIP is arranged for easy GitHub upload.
+
+1. Extract this ZIP.
+2. Open the extracted OSTEM-Hackathon-Simple folder.
+3. Upload ALL files and the three folders (css, icons, js) directly into the ROOT of your GitHub repository.
+4. Keep the folder structure exactly as shown. The js/labs folder is required by the JavaScript imports.
+5. Commit the changes and enable GitHub Pages from the repository's main branch/root if it is not already enabled.
+
+Main entry point: index.html
+Required folders:
+- css/       Stylesheet
+- icons/     App icons
+- js/        Application logic and Physics lab modules
+
+No nested www copy, Android build folder, or unused blockchain source is included in this simplified website submission.
+The learning-achievement feature in this version is a local prototype, not a deployed Solana on-chain program.
+The Physics Tutor is an offline curated tutor, not a live generative AI service.
